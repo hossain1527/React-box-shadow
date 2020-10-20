@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-box-shadow/static/css/main.c65d1318.chunk.css",
-    "main.js": "/React-box-shadow/static/js/main.a13a477f.chunk.js",
-    "main.js.map": "/React-box-shadow/static/js/main.a13a477f.chunk.js.map",
+    "main.css": "/React-box-shadow/static/css/main.4a23c2ed.chunk.css",
+    "main.js": "/React-box-shadow/static/js/main.a2c773d9.chunk.js",
+    "main.js.map": "/React-box-shadow/static/js/main.a2c773d9.chunk.js.map",
     "runtime-main.js": "/React-box-shadow/static/js/runtime-main.96606626.js",
     "runtime-main.js.map": "/React-box-shadow/static/js/runtime-main.96606626.js.map",
     "static/js/2.be91d332.chunk.js": "/React-box-shadow/static/js/2.be91d332.chunk.js",
     "static/js/2.be91d332.chunk.js.map": "/React-box-shadow/static/js/2.be91d332.chunk.js.map",
     "index.html": "/React-box-shadow/index.html",
-    "precache-manifest.98d07afd1287ba657ab3a0d0b0465531.js": "/React-box-shadow/precache-manifest.98d07afd1287ba657ab3a0d0b0465531.js",
+    "precache-manifest.7876733e3737d7035c6edf6f3912e7e4.js": "/React-box-shadow/precache-manifest.7876733e3737d7035c6edf6f3912e7e4.js",
     "service-worker.js": "/React-box-shadow/service-worker.js",
-    "static/css/main.c65d1318.chunk.css.map": "/React-box-shadow/static/css/main.c65d1318.chunk.css.map",
+    "static/css/main.4a23c2ed.chunk.css.map": "/React-box-shadow/static/css/main.4a23c2ed.chunk.css.map",
     "static/js/2.be91d332.chunk.js.LICENSE.txt": "/React-box-shadow/static/js/2.be91d332.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.96606626.js",
     "static/js/2.be91d332.chunk.js",
-    "static/css/main.c65d1318.chunk.css",
-    "static/js/main.a13a477f.chunk.js"
+    "static/css/main.4a23c2ed.chunk.css",
+    "static/js/main.a2c773d9.chunk.js"
   ]
 }
