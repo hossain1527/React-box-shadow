@@ -37,3 +37,14 @@ h4 {
   font-family: 'Raleway', sans-serif;
 }
 
+@media (max-width:768px) {
+  .output, .controls {
+    width: 33%;
+  }
+}
+
+@media (max-width:768px) {
+  span {
+    width: 8%;
+  }
+}

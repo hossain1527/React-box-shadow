@@ -47,7 +47,7 @@ function App() {
 
             <div className="output">
                <div className="outputBox" style = {{boxShadow:`${switchControl?"inset":""} ${hLength}px ${vLength}px ${blur}px ${opacity}px ${color}`}}>
-                 <span>box-shadow: {hLength}px {vLength}px {blur}px {opacity}px</span>  
+                 <span>box-shadow: {hLength}px {vLength}px {blur}px {opacity}px {color}</span>  
                </div>
                 
             </div>
